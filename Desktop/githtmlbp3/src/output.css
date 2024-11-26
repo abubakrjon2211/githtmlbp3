@@ -639,6 +639,34 @@ video {
   margin-top: 5rem;
 }
 
+.ml-16 {
+  margin-left: 4rem;
+}
+
+.ml-2 {
+  margin-left: 0.5rem;
+}
+
+.ml-3 {
+  margin-left: 0.75rem;
+}
+
+.mt-1 {
+  margin-top: 0.25rem;
+}
+
+.mt-24 {
+  margin-top: 6rem;
+}
+
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
+.mt-36 {
+  margin-top: 9rem;
+}
+
 .block {
   display: block;
 }
@@ -701,6 +729,18 @@ video {
 
 .h-\[11px\] {
   height: 11px;
+}
+
+.h-\[15px\] {
+  height: 15px;
+}
+
+.h-\[16px\] {
+  height: 16px;
+}
+
+.h-\[32px\] {
+  height: 32px;
 }
 
 .w-\[130px\] {
@@ -795,6 +835,38 @@ video {
   width: 18px;
 }
 
+.w-\[105px\] {
+  width: 105px;
+}
+
+.w-\[150px\] {
+  width: 150px;
+}
+
+.w-\[15px\] {
+  width: 15px;
+}
+
+.w-\[16px\] {
+  width: 16px;
+}
+
+.w-\[200px\] {
+  width: 200px;
+}
+
+.w-\[240px\] {
+  width: 240px;
+}
+
+.w-\[342px\] {
+  width: 342px;
+}
+
+.w-\[60px\] {
+  width: 60px;
+}
+
 .max-w-6xl {
   max-width: 72rem;
 }
@@ -833,6 +905,14 @@ video {
 
 .gap-6 {
   gap: 1.5rem;
+}
+
+.gap-\[10px\] {
+  gap: 10px;
+}
+
+.gap-\[20px\] {
+  gap: 20px;
 }
 
 .space-x-2 > :not([hidden]) ~ :not([hidden]) {
@@ -981,6 +1061,14 @@ video {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.text-\[14px\] {
+  font-size: 14px;
+}
+
+.text-\[24px\] {
+  font-size: 24px;
 }
 
 .font-black {
@@ -1140,6 +1228,10 @@ video {
 
   .md\:ml-\[45\%\] {
     margin-left: 45%;
+  }
+
+  .md\:ml-36 {
+    margin-left: 9rem;
   }
 
   .md\:flex {
