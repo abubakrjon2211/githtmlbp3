@@ -743,6 +743,10 @@ video {
   height: 32px;
 }
 
+.h-\[128px\] {
+  height: 128px;
+}
+
 .w-\[130px\] {
   width: 130px;
 }
@@ -865,6 +869,10 @@ video {
 
 .w-\[60px\] {
   width: 60px;
+}
+
+.w-\[340px\] {
+  width: 340px;
 }
 
 .max-w-6xl {
@@ -1069,6 +1077,14 @@ video {
 
 .text-\[24px\] {
   font-size: 24px;
+}
+
+.text-\[17px\] {
+  font-size: 17px;
+}
+
+.text-\[18px\] {
+  font-size: 18px;
 }
 
 .font-black {
